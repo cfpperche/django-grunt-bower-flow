@@ -1,0 +1,31 @@
+{
+  "name": "bugix",
+  "version": "0.0.0",
+  "dependencies": {
+    "html5-boilerplate": "~4.3.0",
+    "json3": "~3.3.1",
+    "es5-shim": "~4.0.5",
+    "angular": "latest",
+    "angular-resource": "latest",
+    "angular-cookies": "latest",
+    "angular-sanitize": "latest",
+    "angular-animate": "latest",
+    "angular-touch": "latest",
+    "angular-route": "latest",
+    "angular-ui-router": "~0.2.13",
+    "angular-blocks": "~0.1.9",
+    "angular-toasty": "~0.1.8",
+    "angular-material": "latest",
+    "angular-django-rest-resource": "~1.0.3",
+    "angular-bootstrap": "~0.12.0",
+    "restangular": "~1.4.0",
+    "angular-loading-bar": "~0.6.0",
+    "bootstrap-sass-official": "latest",
+    "font-awesome": "latest",
+    "polymer": "Polymer/polymer#~0.5.2"
+  },
+  "devDependencies": {
+    "angular-mocks": "latest",
+    "angular-scenario": "latest"
+  }
+}

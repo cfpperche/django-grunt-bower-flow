@@ -1,0 +1,13 @@
+lib
+include
+bin
+node_modules
+.temp
+.sass-cache
+bower_components
+npm-debug.log
+*.sqlite3
+.project
+.settings
+.pydevproject
+__pycache__
