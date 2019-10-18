@@ -5,4 +5,4 @@ django-debug-toolbar==1.2.2
 djangorestframework==3.0.3
 python-decouple==2.3
 sqlparse==0.1.14
-urllib3==1.10
+urllib3==1.24.2
